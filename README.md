@@ -98,3 +98,7 @@ python main.py --apps-deploy --components all
 - ['scheduler'],
 - ['backend', 'scheduler'],
 - ['frontend']
+
+## アプリコードの改修
+- /apps/part3/frontend
+ReactアプリがContainerAppsで設定した環境変数を使用するように修正
