@@ -1,0 +1,5 @@
+Usage:
+  main.py --core-deploy --components=<components>
+  main.py --apps-deploy --components=<components>
+  main.py --undeploy
+  main.py --destroy

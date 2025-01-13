@@ -1,0 +1,13 @@
+azure-mgmt-containerregistry
+azure-core-exceptions
+azure-mgmt-applicationinsights
+azure-identity
+azure-mgmt-resource
+azure-mgmt-appcontainers
+azure-mgmt-keyvault
+azure-keyvault-secrets
+azure-mgmt-rdbms
+azure-mgmt-storage
+azure-storage-blob
+azure-mgmt-subscription
+azure-mgmt-network
