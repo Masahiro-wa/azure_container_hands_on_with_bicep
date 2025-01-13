@@ -37,7 +37,7 @@ jobs:
           echo "tag=${TAG}" >> $GITHUB_OUTPUT
 
       - name: "Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # ここからセキュリティスキャン
       - name: "Build container for scan"
