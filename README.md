@@ -19,11 +19,6 @@ Azureコンテナアプリケーション開発
 - https://gihyo.jp/book/2023/978-4-297-13269-9
 - Github: https://github.com/gihyo-book/azure-container-dev-book
 
-### ディレクトリ構成
-```
-|-- architecture
-```
-
 
 ### Azure Bicep について
 **概要**
