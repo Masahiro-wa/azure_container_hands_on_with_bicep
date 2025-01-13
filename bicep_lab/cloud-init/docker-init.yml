@@ -41,7 +41,7 @@ runcmd:
 - chmod 600 /home/oda/.ssh/authorized_keys
 
 # GitHubリポジトリのクローン
-- REPO_URL="https://github.com/Masahiro-wa/azure_container_Hands-on_with_Bicep.git"
+- REPO_URL="https://github.com/Masahiro-wa/azure_container_hands_on_with_bicep.git"
 - su - oda -c "git clone $REPO_URL /home/oda/workspace"
 
 final_message: "The system is finally up, after $UPTIME seconds"
